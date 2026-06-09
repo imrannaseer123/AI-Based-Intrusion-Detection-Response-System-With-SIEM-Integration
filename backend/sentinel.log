@@ -1,0 +1,656 @@
+[2026-04-15 14:39:01,931] INFO detector: New event from sys_admin_27: Checked system updates
+[2026-04-15 14:39:01,963] WARNING detector: ALERT generated: Medium [Checked system updates]
+[2026-04-15 14:39:04,059] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 14:39:09,136] INFO detector: New event from sys_admin_49: Opened internal HR document
+[2026-04-15 14:39:11,222] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 14:39:18,268] INFO detector: New event from sys_admin_41: Opened internal HR document
+[2026-04-15 14:39:20,304] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 14:39:25,311] INFO detector: New event from attacker_2: cmd.exe /c mimikatz.exe privilege::debug
+[2026-04-15 14:39:25,327] WARNING detector: ALERT generated: High [cmd.exe /c mimikatz.exe privilege::debug]
+[2026-04-15 14:39:27,376] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 14:39:35,472] INFO detector: New event from sys_admin_36: User logged in from trusted IP
+[2026-04-15 14:39:37,547] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 14:39:43,647] INFO detector: New event from attacker_2: Ran nmap -sn 192.168.1.0/24
+[2026-04-15 14:39:43,673] WARNING detector: ALERT generated: High [Ran nmap -sn 192.168.1.0/24]
+[2026-04-15 14:39:45,725] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 14:39:51,790] INFO detector: New event from sys_admin_15: User logged in from trusted IP
+[2026-04-15 14:39:53,853] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 14:39:59,936] INFO detector: New event from sys_admin_18: User logged in from trusted IP
+[2026-04-15 14:40:02,020] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 14:40:07,145] INFO detector: New event from sys_admin_33: Opened internal HR document
+[2026-04-15 14:40:09,208] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 14:40:15,287] INFO detector: New event from sys_admin_44: Service host routine system verification
+[2026-04-15 14:40:17,369] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 14:40:25,434] INFO detector: New event from sys_admin_44: Service host routine system verification
+[2026-04-15 14:40:27,482] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 14:40:33,553] INFO detector: New event from sys_admin_46: Browsed to mail.example.com
+[2026-04-15 14:40:35,690] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 14:40:39,761] INFO detector: New event from sys_admin_30: Closed remote session gracefully
+[2026-04-15 14:40:41,823] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 14:40:48,903] INFO detector: New event from sys_admin_27: Downloaded sales_report_Q3.pdf
+[2026-04-15 14:40:50,972] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 14:40:56,046] INFO detector: New event from sys_admin_29: Opened internal HR document
+[2026-04-15 14:40:58,205] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 14:41:03,426] INFO detector: New event from sys_admin_10: User logged in from trusted IP
+[2026-04-15 14:41:06,263] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 14:41:13,358] INFO detector: New event from sys_admin_10: Checked system updates
+[2026-04-15 14:41:13,390] WARNING detector: ALERT generated: Medium [Checked system updates]
+[2026-04-15 14:41:15,465] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 14:41:20,552] INFO detector: New event from sys_admin_45: Downloaded sales_report_Q3.pdf
+[2026-04-15 14:41:22,641] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 14:41:28,785] INFO detector: New event from sys_admin_25: Checked system updates
+[2026-04-15 14:41:28,859] WARNING detector: ALERT generated: Medium [Checked system updates]
+[2026-04-15 14:41:30,942] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 14:41:37,078] INFO detector: New event from sys_admin_12: Checked system updates
+[2026-04-15 14:41:37,109] WARNING detector: ALERT generated: Medium [Checked system updates]
+[2026-04-15 14:41:39,182] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 14:41:46,340] INFO detector: New event from sys_admin_33: Closed remote session gracefully
+[2026-04-15 14:41:48,443] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 14:41:55,495] INFO detector: New event from sys_admin_15: Downloaded sales_report_Q3.pdf
+[2026-04-15 14:41:57,578] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 14:42:03,660] INFO detector: New event from sys_admin_41: User logged in from trusted IP
+[2026-04-15 14:42:05,755] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 14:42:09,976] INFO detector: New event from sys_admin_21: Checked system updates
+[2026-04-15 14:42:10,103] WARNING detector: ALERT generated: Medium [Checked system updates]
+[2026-04-15 14:42:12,225] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 14:42:18,280] INFO detector: New event from sys_admin_21: Service host routine system verification
+[2026-04-15 14:42:20,348] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 14:42:24,433] INFO detector: New event from sys_admin_35: User logged in from trusted IP
+[2026-04-15 14:42:26,502] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 14:42:34,570] INFO detector: New event from sys_admin_34: Opened internal HR document
+[2026-04-15 14:42:36,630] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 14:42:42,690] INFO detector: New event from sys_admin_16: Service host routine system verification
+[2026-04-15 14:42:44,749] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 14:42:49,935] INFO detector: New event from sys_admin_10: Closed remote session gracefully
+[2026-04-15 14:42:51,992] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 14:43:00,168] INFO detector: New event from sys_admin_12: Service host routine system verification
+[2026-04-15 14:43:02,242] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 14:43:06,318] INFO detector: New event from sys_admin_38: Browsed to mail.example.com
+[2026-04-15 14:43:08,377] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 14:43:16,461] INFO detector: New event from sys_admin_24: Downloaded sales_report_Q3.pdf
+[2026-04-15 14:43:18,538] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 14:43:26,602] INFO detector: New event from sys_admin_14: Service host routine system verification
+[2026-04-15 14:43:28,677] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 14:43:36,867] INFO detector: New event from sys_admin_27: Service host routine system verification
+[2026-04-15 14:43:38,931] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 14:43:44,011] INFO detector: New event from sys_admin_47: Opened internal HR document
+[2026-04-15 14:43:46,117] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 14:43:50,203] INFO detector: New event from sys_admin_10: Downloaded sales_report_Q3.pdf
+[2026-04-15 14:43:52,279] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 14:44:00,358] INFO detector: New event from attacker_3: Downloaded unknown_script.ps1
+[2026-04-15 14:44:02,421] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 14:44:07,492] INFO detector: New event from sys_admin_41: Checked system updates
+[2026-04-15 14:44:07,537] WARNING detector: ALERT generated: Medium [Checked system updates]
+[2026-04-15 14:44:09,598] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 14:44:16,712] INFO detector: New event from sys_admin_35: Browsed to mail.example.com
+[2026-04-15 14:44:18,798] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 14:44:23,879] INFO detector: New event from sys_admin_21: Opened internal HR document
+[2026-04-15 14:44:25,964] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 14:44:34,037] INFO detector: New event from sys_admin_12: Closed remote session gracefully
+[2026-04-15 14:44:36,119] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 14:44:40,235] INFO detector: New event from sys_admin_47: Downloaded sales_report_Q3.pdf
+[2026-04-15 14:44:42,309] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 14:44:46,382] INFO detector: New event from sys_admin_27: Service host routine system verification
+[2026-04-15 14:44:48,452] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 14:44:54,544] INFO detector: New event from sys_admin_46: User logged in from trusted IP
+[2026-04-15 14:44:56,652] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 14:45:00,724] INFO detector: New event from attacker_1: Executed powershell.exe -NoProfile -ExecutionPolicy Bypass
+[2026-04-15 14:45:02,809] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 14:45:08,903] INFO detector: New event from attacker_5: Executed powershell.exe -NoProfile -ExecutionPolicy Bypass
+[2026-04-15 14:45:10,970] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 14:45:17,051] INFO detector: New event from sys_admin_15: Closed remote session gracefully
+[2026-04-15 14:45:19,137] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 14:45:27,214] INFO detector: New event from attacker_1: Ran nmap -sn 192.168.1.0/24
+[2026-04-15 14:45:27,226] WARNING detector: ALERT generated: High [Ran nmap -sn 192.168.1.0/24]
+[2026-04-15 14:45:29,266] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 14:45:35,328] INFO detector: New event from attacker_5: Executed powershell.exe -NoProfile -ExecutionPolicy Bypass
+[2026-04-15 14:45:37,383] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 14:45:43,444] INFO detector: New event from sys_admin_36: Checked system updates
+[2026-04-15 14:45:43,468] WARNING detector: ALERT generated: Medium [Checked system updates]
+[2026-04-15 14:45:45,525] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 14:45:53,606] INFO detector: New event from sys_admin_12: Browsed to mail.example.com
+[2026-04-15 14:45:55,930] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 14:46:02,167] INFO detector: New event from sys_admin_18: Checked system updates
+[2026-04-15 14:46:02,202] WARNING detector: ALERT generated: Medium [Checked system updates]
+[2026-04-15 14:46:04,244] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 14:46:12,308] INFO detector: New event from sys_admin_41: User logged in from trusted IP
+[2026-04-15 14:46:14,363] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 14:46:19,441] INFO detector: New event from sys_admin_44: Service host routine system verification
+[2026-04-15 14:46:21,516] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 14:46:27,589] INFO detector: New event from sys_admin_23: Opened internal HR document
+[2026-04-15 14:46:29,671] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 14:46:33,783] INFO detector: New event from sys_admin_17: Closed remote session gracefully
+[2026-04-15 14:46:35,841] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 14:46:40,936] INFO detector: New event from attacker_4: Failed login attempt (x5)
+[2026-04-15 14:46:40,965] WARNING detector: ALERT generated: Medium [Failed login attempt (x5)]
+[2026-04-15 14:46:43,028] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 14:46:51,114] INFO detector: New event from sys_admin_17: Service host routine system verification
+[2026-04-15 14:46:53,179] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 14:46:57,281] INFO detector: New event from sys_admin_35: Opened internal HR document
+[2026-04-15 14:46:59,363] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 14:47:04,453] INFO detector: New event from sys_admin_47: User logged in from trusted IP
+[2026-04-15 14:47:06,509] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 14:47:10,554] INFO detector: New event from sys_admin_29: Checked system updates
+[2026-04-15 14:47:10,581] WARNING detector: ALERT generated: Medium [Checked system updates]
+[2026-04-15 14:47:12,639] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 14:47:19,736] INFO detector: New event from attacker_5: Ran nmap -sn 192.168.1.0/24
+[2026-04-15 14:47:19,759] WARNING detector: ALERT generated: High [Ran nmap -sn 192.168.1.0/24]
+[2026-04-15 14:47:21,808] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 14:47:28,915] INFO detector: New event from sys_admin_22: Downloaded sales_report_Q3.pdf
+[2026-04-15 14:47:30,998] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 14:47:38,070] INFO detector: New event from sys_admin_50: Browsed to mail.example.com
+[2026-04-15 14:47:41,151] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 14:47:46,343] INFO detector: New event from sys_admin_26: Browsed to mail.example.com
+[2026-04-15 14:47:48,454] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 14:47:56,514] INFO detector: New event from sys_admin_27: Service host routine system verification
+[2026-04-15 14:47:58,583] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 14:48:06,666] INFO detector: New event from sys_admin_14: Opened internal HR document
+[2026-04-15 14:48:08,745] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 14:48:15,827] INFO detector: New event from attacker_5: Executed powershell.exe -NoProfile -ExecutionPolicy Bypass
+[2026-04-15 14:48:17,914] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 14:48:23,993] INFO detector: New event from sys_admin_16: Downloaded sales_report_Q3.pdf
+[2026-04-15 14:48:26,063] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 14:48:32,140] INFO detector: New event from sys_admin_29: Closed remote session gracefully
+[2026-04-15 14:48:34,211] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 14:48:42,287] INFO detector: New event from attacker_2: powershell -windowstyle hidden -enc YwBhAGwAYwAuAGUAeABlAA==
+[2026-04-15 14:48:42,294] WARNING detector: ALERT generated: High [powershell -windowstyle hidden -enc YwBhAGwAYwAuAGUAeABlAA==]
+[2026-04-15 14:48:44,363] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 14:48:50,439] INFO detector: New event from sys_admin_43: Service host routine system verification
+[2026-04-15 14:48:52,505] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 14:49:00,574] INFO detector: New event from sys_admin_23: Service host routine system verification
+[2026-04-15 14:49:02,649] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 14:49:07,730] INFO detector: New event from sys_admin_28: User logged in from trusted IP
+[2026-04-15 14:49:09,799] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 14:49:16,874] INFO detector: New event from sys_admin_34: Opened internal HR document
+[2026-04-15 14:49:18,937] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 14:49:26,021] INFO detector: New event from sys_admin_25: Checked system updates
+[2026-04-15 14:49:26,048] WARNING detector: ALERT generated: Medium [Checked system updates]
+[2026-04-15 14:49:28,111] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 14:49:32,190] INFO detector: New event from sys_admin_26: Browsed to mail.example.com
+[2026-04-15 14:49:34,252] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 14:49:41,339] INFO detector: New event from sys_admin_12: User logged in from trusted IP
+[2026-04-15 14:49:43,421] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 14:49:47,513] INFO detector: New event from sys_admin_46: Checked system updates
+[2026-04-15 14:49:47,537] WARNING detector: ALERT generated: Medium [Checked system updates]
+[2026-04-15 14:49:49,608] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 14:49:57,697] INFO detector: New event from sys_admin_33: Browsed to mail.example.com
+[2026-04-15 14:49:59,755] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 14:50:05,948] INFO detector: New event from sys_admin_18: Service host routine system verification
+[2026-04-15 14:50:08,018] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 14:50:13,097] INFO detector: New event from sys_admin_16: Downloaded sales_report_Q3.pdf
+[2026-04-15 14:50:15,192] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 14:50:22,263] INFO detector: New event from sys_admin_44: Browsed to mail.example.com
+[2026-04-15 14:50:24,339] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 14:50:31,432] INFO detector: New event from sys_admin_48: User logged in from trusted IP
+[2026-04-15 14:50:33,517] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 14:50:41,634] INFO detector: New event from sys_admin_40: User logged in from trusted IP
+[2026-04-15 14:50:43,702] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 14:50:48,782] INFO detector: New event from attacker_5: Executed powershell.exe -NoProfile -ExecutionPolicy Bypass
+[2026-04-15 14:50:50,856] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 14:50:55,944] INFO detector: New event from sys_admin_10: Downloaded sales_report_Q3.pdf
+[2026-04-15 14:50:58,013] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 14:51:02,114] INFO detector: New event from sys_admin_10: Downloaded sales_report_Q3.pdf
+[2026-04-15 14:51:04,188] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 14:51:10,260] INFO detector: New event from attacker_2: cmd.exe /c mimikatz.exe privilege::debug
+[2026-04-15 14:51:10,296] WARNING detector: ALERT generated: High [cmd.exe /c mimikatz.exe privilege::debug]
+[2026-04-15 14:51:12,356] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 14:51:19,446] INFO detector: New event from sys_admin_20: Opened internal HR document
+[2026-04-15 14:51:21,505] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 14:51:25,592] INFO detector: New event from sys_admin_25: Closed remote session gracefully
+[2026-04-15 14:51:27,660] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 14:51:34,734] INFO detector: New event from sys_admin_45: Downloaded sales_report_Q3.pdf
+[2026-04-15 14:51:36,832] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 14:51:44,919] INFO detector: New event from sys_admin_24: User logged in from trusted IP
+[2026-04-15 14:51:46,989] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 14:51:55,062] INFO detector: New event from attacker_4: Ran nmap -sn 192.168.1.0/24
+[2026-04-15 14:51:55,090] WARNING detector: ALERT generated: High [Ran nmap -sn 192.168.1.0/24]
+[2026-04-15 14:51:57,144] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 14:52:03,222] INFO detector: New event from sys_admin_34: Opened internal HR document
+[2026-04-15 14:52:05,301] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 14:52:11,396] INFO detector: New event from sys_admin_32: Browsed to mail.example.com
+[2026-04-15 14:52:13,478] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 14:52:18,563] INFO detector: New event from attacker_1: powershell -windowstyle hidden -enc YwBhAGwAYwAuAGUAeABlAA==
+[2026-04-15 14:52:18,573] WARNING detector: ALERT generated: High [powershell -windowstyle hidden -enc YwBhAGwAYwAuAGUAeABlAA==]
+[2026-04-15 14:52:20,618] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 14:52:26,692] INFO detector: New event from attacker_1: cmd.exe /c mimikatz.exe privilege::debug
+[2026-04-15 14:52:26,730] WARNING detector: ALERT generated: High [cmd.exe /c mimikatz.exe privilege::debug]
+[2026-04-15 14:52:28,801] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 14:52:32,866] INFO detector: New event from sys_admin_24: Service host routine system verification
+[2026-04-15 14:52:34,962] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 14:52:43,055] INFO detector: New event from sys_admin_49: Downloaded sales_report_Q3.pdf
+[2026-04-15 14:52:45,137] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 14:52:53,228] INFO detector: New event from sys_admin_17: Opened internal HR document
+[2026-04-15 14:52:55,326] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 14:53:02,424] INFO detector: New event from sys_admin_47: Checked system updates
+[2026-04-15 14:53:02,447] WARNING detector: ALERT generated: Medium [Checked system updates]
+[2026-04-15 14:53:04,476] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 14:53:09,567] INFO detector: New event from sys_admin_22: Checked system updates
+[2026-04-15 14:53:09,595] WARNING detector: ALERT generated: Medium [Checked system updates]
+[2026-04-15 14:53:11,661] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 14:53:17,755] INFO detector: New event from sys_admin_16: Opened internal HR document
+[2026-04-15 14:53:19,835] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 14:53:26,963] INFO detector: New event from attacker_2: powershell -windowstyle hidden -enc YwBhAGwAYwAuAGUAeABlAA==
+[2026-04-15 14:53:26,976] WARNING detector: ALERT generated: High [powershell -windowstyle hidden -enc YwBhAGwAYwAuAGUAeABlAA==]
+[2026-04-15 14:53:29,036] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 14:53:33,109] INFO detector: New event from sys_admin_34: Service host routine system verification
+[2026-04-15 14:53:35,196] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 14:53:41,300] INFO detector: New event from sys_admin_46: Checked system updates
+[2026-04-15 14:53:41,334] WARNING detector: ALERT generated: Medium [Checked system updates]
+[2026-04-15 14:53:43,397] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 14:53:50,711] INFO detector: New event from sys_admin_19: User logged in from trusted IP
+[2026-04-15 14:53:52,833] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 14:54:14,968] INFO detector: New event from attacker_2: Executed powershell.exe -NoProfile -ExecutionPolicy Bypass
+[2026-04-15 14:54:17,043] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:00:17,214] INFO detector: New event from sys_admin_45: User logged in from trusted IP
+[2026-04-15 15:00:19,420] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:00:26,523] INFO detector: New event from sys_admin_38: Closed remote session gracefully
+[2026-04-15 15:00:28,617] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:00:33,704] INFO detector: New event from attacker_2: cmd.exe /c mimikatz.exe privilege::debug
+[2026-04-15 15:00:33,734] WARNING detector: ALERT generated: High [cmd.exe /c mimikatz.exe privilege::debug]
+[2026-04-15 15:00:35,802] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:00:42,934] INFO detector: New event from sys_admin_42: Checked system updates
+[2026-04-15 15:00:42,961] WARNING detector: ALERT generated: Medium [Checked system updates]
+[2026-04-15 15:00:45,009] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:00:51,135] INFO detector: New event from sys_admin_24: Downloaded sales_report_Q3.pdf
+[2026-04-15 15:00:53,302] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:01:00,390] INFO detector: New event from attacker_3: Executed powershell.exe -NoProfile -ExecutionPolicy Bypass
+[2026-04-15 15:01:02,443] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:01:07,532] INFO detector: New event from sys_admin_22: Browsed to mail.example.com
+[2026-04-15 15:01:09,586] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:01:13,675] INFO detector: New event from sys_admin_49: Service host routine system verification
+[2026-04-15 15:01:15,739] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:01:20,798] INFO detector: New event from sys_admin_30: User logged in from trusted IP
+[2026-04-15 15:01:22,886] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:01:29,960] INFO detector: New event from sys_admin_41: Service host routine system verification
+[2026-04-15 15:01:32,040] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:01:36,132] INFO detector: New event from sys_admin_27: Closed remote session gracefully
+[2026-04-15 15:01:38,192] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:01:44,269] INFO detector: New event from sys_admin_27: Downloaded sales_report_Q3.pdf
+[2026-04-15 15:01:46,360] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:01:54,441] INFO detector: New event from sys_admin_41: Service host routine system verification
+[2026-04-15 15:01:56,519] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:02:03,609] INFO detector: New event from sys_admin_45: User logged in from trusted IP
+[2026-04-15 15:02:05,684] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:02:12,780] INFO detector: New event from sys_admin_24: Browsed to mail.example.com
+[2026-04-15 15:02:14,827] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:02:22,915] INFO detector: New event from attacker_3: Downloaded unknown_script.ps1
+[2026-04-15 15:02:24,994] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:02:30,098] INFO detector: New event from attacker_4: powershell -windowstyle hidden -enc YwBhAGwAYwAuAGUAeABlAA==
+[2026-04-15 15:02:30,117] WARNING detector: ALERT generated: High [powershell -windowstyle hidden -enc YwBhAGwAYwAuAGUAeABlAA==]
+[2026-04-15 15:02:32,183] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:02:37,255] INFO detector: New event from sys_admin_47: Opened internal HR document
+[2026-04-15 15:02:39,337] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:02:47,404] INFO detector: New event from sys_admin_25: Checked system updates
+[2026-04-15 15:02:47,433] WARNING detector: ALERT generated: Medium [Checked system updates]
+[2026-04-15 15:02:49,471] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:02:53,547] INFO detector: New event from sys_admin_25: User logged in from trusted IP
+[2026-04-15 15:02:55,612] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:02:59,677] INFO detector: New event from sys_admin_47: Checked system updates
+[2026-04-15 15:02:59,697] WARNING detector: ALERT generated: Medium [Checked system updates]
+[2026-04-15 15:03:01,746] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:03:08,834] INFO detector: New event from sys_admin_44: Closed remote session gracefully
+[2026-04-15 15:03:10,922] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:03:17,998] INFO detector: New event from sys_admin_47: User logged in from trusted IP
+[2026-04-15 15:03:20,063] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:03:26,167] INFO detector: New event from sys_admin_20: Service host routine system verification
+[2026-04-15 15:03:28,229] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:03:36,319] INFO detector: New event from sys_admin_35: User logged in from trusted IP
+[2026-04-15 15:03:38,398] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:03:43,471] INFO detector: New event from sys_admin_28: Checked system updates
+[2026-04-15 15:03:43,506] WARNING detector: ALERT generated: Medium [Checked system updates]
+[2026-04-15 15:03:45,572] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:03:49,675] INFO detector: New event from sys_admin_49: Service host routine system verification
+[2026-04-15 15:03:51,749] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:03:56,847] INFO detector: New event from sys_admin_20: Service host routine system verification
+[2026-04-15 15:03:58,940] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:04:05,028] INFO detector: New event from attacker_4: Downloaded unknown_script.ps1
+[2026-04-15 15:04:07,093] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:04:14,197] INFO detector: New event from sys_admin_48: Opened internal HR document
+[2026-04-15 15:04:16,290] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:04:23,497] INFO detector: New event from sys_admin_41: Downloaded sales_report_Q3.pdf
+[2026-04-15 15:04:25,895] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:04:32,007] INFO detector: New event from sys_admin_40: Service host routine system verification
+[2026-04-15 15:04:34,090] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:04:38,175] INFO detector: New event from sys_admin_36: Browsed to mail.example.com
+[2026-04-15 15:04:40,237] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:04:47,292] INFO detector: New event from sys_admin_21: Service host routine system verification
+[2026-04-15 15:04:49,359] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:04:54,427] INFO detector: New event from sys_admin_16: Closed remote session gracefully
+[2026-04-15 15:04:56,498] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:05:00,624] INFO detector: New event from sys_admin_18: Opened internal HR document
+[2026-04-15 15:05:02,691] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:05:07,852] INFO detector: New event from sys_admin_43: User logged in from trusted IP
+[2026-04-15 15:05:09,920] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:05:17,116] INFO detector: New event from sys_admin_37: Service host routine system verification
+[2026-04-15 15:05:19,195] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:05:23,322] INFO detector: New event from sys_admin_32: Browsed to mail.example.com
+[2026-04-15 15:05:25,376] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:05:30,474] INFO detector: New event from sys_admin_39: Opened internal HR document
+[2026-04-15 15:05:32,542] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:05:40,620] INFO detector: New event from sys_admin_35: Browsed to mail.example.com
+[2026-04-15 15:05:42,674] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:05:50,759] INFO detector: New event from sys_admin_22: User logged in from trusted IP
+[2026-04-15 15:05:52,823] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:05:59,890] INFO detector: New event from sys_admin_20: Closed remote session gracefully
+[2026-04-15 15:06:01,971] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:06:08,042] INFO detector: New event from sys_admin_49: Browsed to mail.example.com
+[2026-04-15 15:06:10,124] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:06:16,216] INFO detector: New event from sys_admin_28: Checked system updates
+[2026-04-15 15:06:16,242] WARNING detector: ALERT generated: Medium [Checked system updates]
+[2026-04-15 15:06:18,326] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:06:23,385] INFO detector: New event from sys_admin_46: Closed remote session gracefully
+[2026-04-15 15:06:25,467] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:06:33,522] INFO detector: New event from sys_admin_42: Checked system updates
+[2026-04-15 15:06:33,552] WARNING detector: ALERT generated: Medium [Checked system updates]
+[2026-04-15 15:06:35,621] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:06:41,715] INFO detector: New event from sys_admin_29: Downloaded sales_report_Q3.pdf
+[2026-04-15 15:06:43,784] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:06:51,860] INFO detector: New event from sys_admin_49: Downloaded sales_report_Q3.pdf
+[2026-04-15 15:06:53,950] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:06:58,215] INFO detector: New event from sys_admin_22: Opened internal HR document
+[2026-04-15 15:07:00,261] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:07:05,349] INFO detector: New event from attacker_3: powershell -windowstyle hidden -enc YwBhAGwAYwAuAGUAeABlAA==
+[2026-04-15 15:07:05,366] WARNING detector: ALERT generated: High [powershell -windowstyle hidden -enc YwBhAGwAYwAuAGUAeABlAA==]
+[2026-04-15 15:07:07,435] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:07:12,511] INFO detector: New event from sys_admin_36: Service host routine system verification
+[2026-04-15 15:07:14,582] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:07:22,667] INFO detector: New event from sys_admin_25: Closed remote session gracefully
+[2026-04-15 15:07:24,749] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:07:32,840] INFO detector: New event from sys_admin_35: Downloaded sales_report_Q3.pdf
+[2026-04-15 15:07:34,911] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:07:38,987] INFO detector: New event from sys_admin_22: Service host routine system verification
+[2026-04-15 15:07:41,054] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:07:47,150] INFO detector: New event from sys_admin_39: Downloaded sales_report_Q3.pdf
+[2026-04-15 15:07:49,242] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:07:55,332] INFO detector: New event from sys_admin_38: Closed remote session gracefully
+[2026-04-15 15:07:57,404] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:08:04,476] INFO detector: New event from sys_admin_37: User logged in from trusted IP
+[2026-04-15 15:08:06,556] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:08:11,668] INFO detector: New event from sys_admin_22: Closed remote session gracefully
+[2026-04-15 15:08:13,752] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:08:20,829] INFO detector: New event from attacker_4: powershell -windowstyle hidden -enc YwBhAGwAYwAuAGUAeABlAA==
+[2026-04-15 15:08:20,843] WARNING detector: ALERT generated: High [powershell -windowstyle hidden -enc YwBhAGwAYwAuAGUAeABlAA==]
+[2026-04-15 15:08:22,871] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:08:27,961] INFO detector: New event from attacker_1: Failed login attempt (x5)
+[2026-04-15 15:08:28,001] WARNING detector: ALERT generated: Medium [Failed login attempt (x5)]
+[2026-04-15 15:08:30,051] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:08:37,132] INFO detector: New event from sys_admin_42: Downloaded sales_report_Q3.pdf
+[2026-04-15 15:08:39,205] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:08:46,274] INFO detector: New event from sys_admin_49: Closed remote session gracefully
+[2026-04-15 15:08:48,335] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:08:53,409] INFO detector: New event from sys_admin_26: Closed remote session gracefully
+[2026-04-15 15:08:55,475] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:08:59,532] INFO detector: New event from sys_admin_15: Browsed to mail.example.com
+[2026-04-15 15:09:01,603] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:09:07,663] INFO detector: New event from sys_admin_41: User logged in from trusted IP
+[2026-04-15 15:09:09,722] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:09:15,784] INFO detector: New event from attacker_3: powershell -windowstyle hidden -enc YwBhAGwAYwAuAGUAeABlAA==
+[2026-04-15 15:09:15,793] WARNING detector: ALERT generated: High [powershell -windowstyle hidden -enc YwBhAGwAYwAuAGUAeABlAA==]
+[2026-04-15 15:09:17,831] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:09:23,903] INFO detector: New event from attacker_5: Failed login attempt (x5)
+[2026-04-15 15:09:23,935] WARNING detector: ALERT generated: Medium [Failed login attempt (x5)]
+[2026-04-15 15:09:25,996] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:09:31,096] INFO detector: New event from sys_admin_40: Browsed to mail.example.com
+[2026-04-15 15:09:33,173] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:09:40,268] INFO detector: New event from sys_admin_19: Opened internal HR document
+[2026-04-15 15:09:42,347] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:09:49,423] INFO detector: New event from sys_admin_38: Closed remote session gracefully
+[2026-04-15 15:09:51,492] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:09:56,567] INFO detector: New event from attacker_3: powershell -windowstyle hidden -enc YwBhAGwAYwAuAGUAeABlAA==
+[2026-04-15 15:09:56,577] WARNING detector: ALERT generated: High [powershell -windowstyle hidden -enc YwBhAGwAYwAuAGUAeABlAA==]
+[2026-04-15 15:09:58,629] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:10:04,696] INFO detector: New event from sys_admin_37: Checked system updates
+[2026-04-15 15:10:04,736] WARNING detector: ALERT generated: Medium [Checked system updates]
+[2026-04-15 15:10:06,766] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:10:13,853] INFO detector: New event from sys_admin_12: Browsed to mail.example.com
+[2026-04-15 15:10:15,916] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:10:21,989] INFO detector: New event from sys_admin_48: Downloaded sales_report_Q3.pdf
+[2026-04-15 15:10:24,057] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:10:30,123] INFO detector: New event from attacker_2: Failed login attempt (x5)
+[2026-04-15 15:10:30,147] WARNING detector: ALERT generated: Medium [Failed login attempt (x5)]
+[2026-04-15 15:10:32,209] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:10:38,274] INFO detector: New event from sys_admin_35: Downloaded sales_report_Q3.pdf
+[2026-04-15 15:10:40,354] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:10:46,429] INFO detector: New event from sys_admin_43: Browsed to mail.example.com
+[2026-04-15 15:10:48,497] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:10:53,579] INFO detector: New event from sys_admin_37: Service host routine system verification
+[2026-04-15 15:10:55,725] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:11:00,815] INFO detector: New event from attacker_1: Failed login attempt (x5)
+[2026-04-15 15:11:00,845] WARNING detector: ALERT generated: Medium [Failed login attempt (x5)]
+[2026-04-15 15:11:02,898] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:11:09,991] INFO detector: New event from attacker_1: Executed powershell.exe -NoProfile -ExecutionPolicy Bypass
+[2026-04-15 15:11:12,051] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:11:20,152] INFO detector: New event from sys_admin_46: Downloaded sales_report_Q3.pdf
+[2026-04-15 15:11:22,234] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:11:30,344] INFO detector: New event from sys_admin_34: Downloaded sales_report_Q3.pdf
+[2026-04-15 15:11:32,405] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:11:39,469] INFO detector: New event from sys_admin_39: Checked system updates
+[2026-04-15 15:11:39,493] WARNING detector: ALERT generated: Medium [Checked system updates]
+[2026-04-15 15:11:41,556] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:11:49,632] INFO detector: New event from sys_admin_19: Service host routine system verification
+[2026-04-15 15:11:51,725] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:11:57,793] INFO detector: New event from sys_admin_28: Downloaded sales_report_Q3.pdf
+[2026-04-15 15:11:59,866] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:12:03,977] INFO detector: New event from sys_admin_38: Browsed to mail.example.com
+[2026-04-15 15:12:06,058] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:12:14,106] INFO detector: New event from sys_admin_13: Service host routine system verification
+[2026-04-15 15:12:16,177] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:15:06,201] INFO detector: New event from attacker_3: powershell -windowstyle hidden -enc YwBhAGwAYwAuAGUAeABlAA==
+[2026-04-15 15:15:06,216] WARNING detector: ALERT generated: High [powershell -windowstyle hidden -enc YwBhAGwAYwAuAGUAeABlAA==]
+[2026-04-15 15:15:08,250] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:15:16,325] INFO detector: New event from sys_admin_46: User logged in from trusted IP
+[2026-04-15 15:15:18,395] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:15:26,471] INFO detector: New event from sys_admin_31: User logged in from trusted IP
+[2026-04-15 15:15:28,529] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:15:34,584] INFO detector: New event from sys_admin_35: Closed remote session gracefully
+[2026-04-15 15:15:36,658] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:15:40,755] INFO detector: New event from attacker_2: cmd.exe /c mimikatz.exe privilege::debug
+[2026-04-15 15:15:40,778] WARNING detector: ALERT generated: High [cmd.exe /c mimikatz.exe privilege::debug]
+[2026-04-15 15:15:42,861] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:15:47,945] INFO detector: New event from attacker_4: Downloaded unknown_script.ps1
+[2026-04-15 15:15:50,011] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:15:54,091] INFO detector: New event from sys_admin_36: Checked system updates
+[2026-04-15 15:15:54,113] WARNING detector: ALERT generated: Medium [Checked system updates]
+[2026-04-15 15:15:56,173] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:16:02,252] INFO detector: New event from sys_admin_10: Checked system updates
+[2026-04-15 15:16:02,280] WARNING detector: ALERT generated: Medium [Checked system updates]
+[2026-04-15 15:16:04,335] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:16:11,375] INFO detector: New event from sys_admin_23: Closed remote session gracefully
+[2026-04-15 15:16:13,465] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:16:17,565] INFO detector: New event from sys_admin_39: User logged in from trusted IP
+[2026-04-15 15:16:19,643] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:16:23,719] INFO detector: New event from sys_admin_45: Browsed to mail.example.com
+[2026-04-15 15:16:25,775] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:16:32,852] INFO detector: New event from sys_admin_14: Opened internal HR document
+[2026-04-15 15:16:34,913] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:16:40,012] INFO detector: New event from sys_admin_38: Browsed to mail.example.com
+[2026-04-15 15:16:42,101] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:16:46,168] INFO detector: New event from sys_admin_37: Closed remote session gracefully
+[2026-04-15 15:16:48,247] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:16:55,324] INFO detector: New event from sys_admin_49: User logged in from trusted IP
+[2026-04-15 15:16:57,383] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:17:03,471] INFO detector: New event from sys_admin_25: Closed remote session gracefully
+[2026-04-15 15:17:05,548] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:17:12,613] INFO detector: New event from sys_admin_12: Downloaded sales_report_Q3.pdf
+[2026-04-15 15:17:14,694] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:17:22,764] INFO detector: New event from sys_admin_34: Downloaded sales_report_Q3.pdf
+[2026-04-15 15:17:24,842] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:17:29,939] INFO detector: New event from sys_admin_35: Closed remote session gracefully
+[2026-04-15 15:17:32,003] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:17:37,112] INFO detector: New event from attacker_3: Failed login attempt (x5)
+[2026-04-15 15:17:37,137] WARNING detector: ALERT generated: Medium [Failed login attempt (x5)]
+[2026-04-15 15:17:39,188] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:17:47,278] INFO detector: New event from sys_admin_18: Opened internal HR document
+[2026-04-15 15:17:49,354] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:17:57,457] INFO detector: New event from sys_admin_31: Service host routine system verification
+[2026-04-15 15:17:59,541] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:18:04,651] INFO detector: New event from sys_admin_45: Closed remote session gracefully
+[2026-04-15 15:18:06,897] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:18:13,997] INFO detector: New event from sys_admin_21: Closed remote session gracefully
+[2026-04-15 15:18:16,064] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:18:22,152] INFO detector: New event from sys_admin_45: Opened internal HR document
+[2026-04-15 15:18:24,212] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:18:28,309] INFO detector: New event from sys_admin_18: Opened internal HR document
+[2026-04-15 15:18:30,377] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:18:36,435] INFO detector: New event from sys_admin_19: Downloaded sales_report_Q3.pdf
+[2026-04-15 15:18:38,522] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:18:46,604] INFO detector: New event from sys_admin_39: Closed remote session gracefully
+[2026-04-15 15:18:48,680] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:18:56,750] INFO detector: New event from sys_admin_37: Checked system updates
+[2026-04-15 15:18:56,777] WARNING detector: ALERT generated: Medium [Checked system updates]
+[2026-04-15 15:18:58,822] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:19:06,917] INFO detector: New event from sys_admin_49: Closed remote session gracefully
+[2026-04-15 15:19:09,012] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:19:14,103] INFO detector: New event from sys_admin_10: Opened internal HR document
+[2026-04-15 15:19:16,182] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:19:24,282] INFO detector: New event from sys_admin_10: Closed remote session gracefully
+[2026-04-15 15:19:26,347] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:19:31,455] INFO detector: New event from sys_admin_10: Downloaded sales_report_Q3.pdf
+[2026-04-15 15:19:33,530] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:19:39,625] INFO detector: New event from sys_admin_28: Browsed to mail.example.com
+[2026-04-15 15:19:41,679] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:19:47,765] INFO detector: New event from sys_admin_46: Opened internal HR document
+[2026-04-15 15:19:49,811] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:19:54,896] INFO detector: New event from sys_admin_32: Checked system updates
+[2026-04-15 15:19:54,923] WARNING detector: ALERT generated: Medium [Checked system updates]
+[2026-04-15 15:19:56,987] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:20:01,066] INFO detector: New event from sys_admin_12: Checked system updates
+[2026-04-15 15:20:01,082] WARNING detector: ALERT generated: Medium [Checked system updates]
+[2026-04-15 15:20:03,128] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:20:08,210] INFO detector: New event from sys_admin_37: Downloaded sales_report_Q3.pdf
+[2026-04-15 15:20:10,280] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:20:14,355] INFO detector: New event from sys_admin_31: Closed remote session gracefully
+[2026-04-15 15:20:16,412] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:20:22,483] INFO detector: New event from sys_admin_25: Downloaded sales_report_Q3.pdf
+[2026-04-15 15:20:24,547] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:20:31,614] INFO detector: New event from sys_admin_46: Downloaded sales_report_Q3.pdf
+[2026-04-15 15:20:33,682] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:20:39,751] INFO detector: New event from sys_admin_44: User logged in from trusted IP
+[2026-04-15 15:20:41,810] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:20:47,898] INFO detector: New event from sys_admin_35: Opened internal HR document
+[2026-04-15 15:20:49,968] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:20:58,059] INFO detector: New event from sys_admin_15: Service host routine system verification
+[2026-04-15 15:21:00,155] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:21:05,238] INFO detector: New event from attacker_3: Failed login attempt (x5)
+[2026-04-15 15:21:05,264] WARNING detector: ALERT generated: Medium [Failed login attempt (x5)]
+[2026-04-15 15:21:07,324] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:21:15,417] INFO detector: New event from attacker_2: Ran nmap -sn 192.168.1.0/24
+[2026-04-15 15:21:15,451] WARNING detector: ALERT generated: High [Ran nmap -sn 192.168.1.0/24]
+[2026-04-15 15:21:17,499] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:21:23,558] INFO detector: New event from sys_admin_24: User logged in from trusted IP
+[2026-04-15 15:21:25,625] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:21:29,709] INFO detector: New event from sys_admin_30: Opened internal HR document
+[2026-04-15 15:21:31,784] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:21:39,850] INFO detector: New event from sys_admin_23: Downloaded sales_report_Q3.pdf
+[2026-04-15 15:21:41,941] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:21:46,018] INFO detector: New event from sys_admin_43: Downloaded sales_report_Q3.pdf
+[2026-04-15 15:21:48,102] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:21:52,170] INFO detector: New event from sys_admin_41: Closed remote session gracefully
+[2026-04-15 15:21:54,224] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:22:00,292] INFO detector: New event from sys_admin_48: Closed remote session gracefully
+[2026-04-15 15:22:02,351] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:22:09,432] INFO detector: New event from sys_admin_14: Checked system updates
+[2026-04-15 15:22:09,462] WARNING detector: ALERT generated: Medium [Checked system updates]
+[2026-04-15 15:22:11,504] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:22:17,570] INFO detector: New event from attacker_1: Ran nmap -sn 192.168.1.0/24
+[2026-04-15 15:22:17,602] WARNING detector: ALERT generated: High [Ran nmap -sn 192.168.1.0/24]
+[2026-04-15 15:22:19,643] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:22:26,713] INFO detector: New event from attacker_2: Executed powershell.exe -NoProfile -ExecutionPolicy Bypass
+[2026-04-15 15:22:28,766] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:22:33,847] INFO detector: New event from sys_admin_18: Closed remote session gracefully
+[2026-04-15 15:22:35,918] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:22:42,987] INFO detector: New event from sys_admin_28: Closed remote session gracefully
+[2026-04-15 15:22:45,044] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:22:53,149] INFO detector: New event from sys_admin_21: Opened internal HR document
+[2026-04-15 15:22:55,212] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:23:02,295] INFO detector: New event from sys_admin_37: Checked system updates
+[2026-04-15 15:23:02,345] WARNING detector: ALERT generated: Medium [Checked system updates]
+[2026-04-15 15:23:04,391] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:23:11,463] INFO detector: New event from sys_admin_37: User logged in from trusted IP
+[2026-04-15 15:23:13,537] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:23:18,626] INFO detector: New event from sys_admin_29: Service host routine system verification
+[2026-04-15 15:23:20,704] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:23:28,793] INFO detector: New event from attacker_3: cmd.exe /c mimikatz.exe privilege::debug
+[2026-04-15 15:23:28,824] WARNING detector: ALERT generated: High [cmd.exe /c mimikatz.exe privilege::debug]
+[2026-04-15 15:23:30,873] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:23:36,962] INFO detector: New event from sys_admin_19: Checked system updates
+[2026-04-15 15:23:36,993] WARNING detector: ALERT generated: Medium [Checked system updates]
+[2026-04-15 15:23:39,050] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:23:47,119] INFO detector: New event from sys_admin_49: Service host routine system verification
+[2026-04-15 15:23:49,174] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:23:57,300] INFO detector: New event from sys_admin_16: Checked system updates
+[2026-04-15 15:23:57,329] WARNING detector: ALERT generated: Medium [Checked system updates]
+[2026-04-15 15:23:59,382] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:24:06,452] INFO detector: New event from sys_admin_15: Service host routine system verification
+[2026-04-15 15:24:08,516] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:24:13,621] INFO detector: New event from attacker_2: Executed powershell.exe -NoProfile -ExecutionPolicy Bypass
+[2026-04-15 15:24:15,702] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:24:20,793] INFO detector: New event from sys_admin_42: Closed remote session gracefully
+[2026-04-15 15:24:22,854] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:24:30,925] INFO detector: New event from attacker_3: Downloaded unknown_script.ps1
+[2026-04-15 15:24:33,002] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:24:37,081] INFO detector: New event from attacker_2: Failed login attempt (x5)
+[2026-04-15 15:24:37,103] WARNING detector: ALERT generated: Medium [Failed login attempt (x5)]
+[2026-04-15 15:24:39,157] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:24:43,235] INFO detector: New event from attacker_3: powershell -windowstyle hidden -enc YwBhAGwAYwAuAGUAeABlAA==
+[2026-04-15 15:24:43,244] WARNING detector: ALERT generated: High [powershell -windowstyle hidden -enc YwBhAGwAYwAuAGUAeABlAA==]
+[2026-04-15 15:24:45,294] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:24:50,373] INFO detector: New event from sys_admin_21: User logged in from trusted IP
+[2026-04-15 15:24:52,424] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:24:58,517] INFO detector: New event from sys_admin_34: Opened internal HR document
+[2026-04-15 15:25:00,572] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:25:05,661] INFO detector: New event from sys_admin_23: Opened internal HR document
+[2026-04-15 15:25:07,712] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:25:11,765] INFO detector: New event from sys_admin_41: Browsed to mail.example.com
+[2026-04-15 15:25:13,828] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:25:17,913] INFO detector: New event from sys_admin_29: Browsed to mail.example.com
+[2026-04-15 15:25:19,976] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:25:24,053] INFO detector: New event from attacker_2: Failed login attempt (x5)
+[2026-04-15 15:25:24,065] WARNING detector: ALERT generated: Medium [Failed login attempt (x5)]
+[2026-04-15 15:25:26,129] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:25:32,189] INFO detector: New event from attacker_5: Failed login attempt (x5)
+[2026-04-15 15:25:32,213] WARNING detector: ALERT generated: Medium [Failed login attempt (x5)]
+[2026-04-15 15:25:34,272] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:25:42,357] INFO detector: New event from sys_admin_13: Browsed to mail.example.com
+[2026-04-15 15:25:44,430] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:25:49,518] INFO detector: New event from sys_admin_12: Checked system updates
+[2026-04-15 15:25:49,540] WARNING detector: ALERT generated: Medium [Checked system updates]
+[2026-04-15 15:25:51,592] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:25:59,663] INFO detector: New event from sys_admin_31: Service host routine system verification
+[2026-04-15 15:26:01,716] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:26:05,791] INFO detector: New event from sys_admin_19: Browsed to mail.example.com
+[2026-04-15 15:26:07,868] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:26:12,954] INFO detector: New event from sys_admin_43: Opened internal HR document
+[2026-04-15 15:26:15,036] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:26:21,102] INFO detector: New event from sys_admin_20: Service host routine system verification
+[2026-04-15 15:26:23,168] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:26:29,242] INFO detector: New event from attacker_1: Ran nmap -sn 192.168.1.0/24
+[2026-04-15 15:26:29,270] WARNING detector: ALERT generated: High [Ran nmap -sn 192.168.1.0/24]
+[2026-04-15 15:26:31,344] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:26:37,414] INFO detector: New event from attacker_3: Ran nmap -sn 192.168.1.0/24
+[2026-04-15 15:26:37,443] WARNING detector: ALERT generated: High [Ran nmap -sn 192.168.1.0/24]
+[2026-04-15 15:26:39,515] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:26:43,602] INFO detector: New event from sys_admin_39: Downloaded sales_report_Q3.pdf
+[2026-04-15 15:26:45,652] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:26:52,732] INFO detector: New event from sys_admin_11: Checked system updates
+[2026-04-15 15:26:52,758] WARNING detector: ALERT generated: Medium [Checked system updates]
+[2026-04-15 15:26:54,818] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:26:58,905] INFO detector: New event from sys_admin_36: Service host routine system verification
+[2026-04-15 15:27:00,967] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:27:09,044] INFO detector: New event from sys_admin_32: Closed remote session gracefully
+[2026-04-15 15:27:11,113] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:27:19,178] INFO detector: New event from sys_admin_40: Service host routine system verification
+[2026-04-15 15:27:21,224] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:27:26,299] INFO detector: New event from sys_admin_34: Service host routine system verification
+[2026-04-15 15:27:28,367] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:27:35,435] INFO detector: New event from sys_admin_40: Downloaded sales_report_Q3.pdf
+[2026-04-15 15:27:37,510] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:27:41,587] INFO detector: New event from sys_admin_12: Browsed to mail.example.com
+[2026-04-15 15:27:43,646] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:27:49,724] INFO detector: New event from sys_admin_17: User logged in from trusted IP
+[2026-04-15 15:27:51,787] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:27:55,844] INFO detector: New event from attacker_3: cmd.exe /c mimikatz.exe privilege::debug
+[2026-04-15 15:27:55,870] WARNING detector: ALERT generated: High [cmd.exe /c mimikatz.exe privilege::debug]
+[2026-04-15 15:27:57,921] INFO detector: Splunk HEC: Event sent successfully
+[2026-04-15 15:28:03,986] INFO detector: New event from sys_admin_35: Service host routine system verification
+[2026-04-15 15:34:42,645] INFO detector: Splunk HEC: Event sent successfully
