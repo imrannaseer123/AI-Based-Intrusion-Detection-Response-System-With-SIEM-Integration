@@ -135,5 +135,4 @@ This project is licensed under the **MIT License** – see the `LICENSE` file fo
 ## Contact
 
 - **Author**: Imran Naseer
-- **Email**: imran@example.com
 - **GitHub**: [imrannaseer123](https://github.com/imrannaseer123)
