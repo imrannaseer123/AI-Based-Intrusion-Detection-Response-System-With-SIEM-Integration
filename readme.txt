@@ -5,7 +5,7 @@
 Project Title  : AI-Based Intrusion Detection & Response System
 Domain         : Cybersecurity / Network Security / SIEM
 Tech Stack     : Django, React.js, Splunk Enterprise, Scikit-learn
-Author         : Imran
+Author         : @imrannaseer123
 Status         : Production-Ready Prototype
 
 
