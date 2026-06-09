@@ -1,16 +1,16 @@
-##
+#
 ================================================================================
      AI-BASED INTRUSION DETECTION & RESPONSE SYSTEM WITH SIEM INTEGRATION
 ================================================================================ 
-##
 
+##
 Project Title  : AI-Based Intrusion Detection & Response System
 Domain         : Cybersecurity / Network Security / SIEM
 Tech Stack     : Django, React.js, Splunk Enterprise, Scikit-learn
 Author         : @imrannaseer123
 Status         : Production-Ready Prototype
 
-
+#
 ================================================================================
  1. PROJECT OVERVIEW
 ================================================================================
@@ -30,7 +30,7 @@ When suspicious activity is detected, the system automatically:
   3. Generates an alert with risk classification
   4. Displays it on the React dashboard in real-time
 
-
+#
 ================================================================================
  2. SYSTEM ARCHITECTURE
 ================================================================================
@@ -64,7 +64,7 @@ The system follows a layered pipeline architecture:
 
 
 ================================================================================
- 3. COMPLETE WORKFLOW
+# 3. COMPLETE WORKFLOW
 ================================================================================
 
 Step-by-step flow of how the system works:
@@ -141,7 +141,7 @@ STEP 7: FRONTEND DISPLAY
 
 
 ================================================================================
- 4. TECHNOLOGY STACK
+# 4. TECHNOLOGY STACK
 ================================================================================
 
 BACKEND:
@@ -173,7 +173,7 @@ FRONTEND:
 
 
 ================================================================================
- 5. INTEGRATION DETAILS
+# 5. INTEGRATION DETAILS
 ================================================================================
 
 5.1 DJANGO <-> SPLUNK INTEGRATION
@@ -244,7 +244,7 @@ FRONTEND:
 
 
 ================================================================================
- 6. PORT CONFIGURATION
+# 6. PORT CONFIGURATION
 ================================================================================
 
   Service           Port    Notes
@@ -261,7 +261,7 @@ FRONTEND:
 
 
 ================================================================================
- 7. DATABASE MODELS
+# 7. DATABASE MODELS
 ================================================================================
 
   Log Model:
@@ -280,7 +280,7 @@ FRONTEND:
 
 
 ================================================================================
- 8. API ENDPOINTS
+# 8. API ENDPOINTS
 ================================================================================
 
   Method   Endpoint              Description
@@ -308,7 +308,7 @@ FRONTEND:
 
 
 ================================================================================
- 9. FRONTEND COMPONENTS
+# 9. FRONTEND COMPONENTS
 ================================================================================
 
   Component          File                          Purpose
@@ -325,7 +325,7 @@ FRONTEND:
 
 
 ================================================================================
- 10. SETUP INSTRUCTIONS
+# 10. SETUP INSTRUCTIONS
 ================================================================================
 
   Prerequisites:
@@ -355,7 +355,7 @@ FRONTEND:
 
 
 ================================================================================
- 11. LOGGING & DEBUGGING
+# 11. LOGGING & DEBUGGING
 ================================================================================
 
   Django Logging:
@@ -376,7 +376,7 @@ FRONTEND:
 
 
 ================================================================================
- 12. SECURITY FEATURES IMPLEMENTED
+# 12. SECURITY FEATURES IMPLEMENTED
 ================================================================================
 
   1. Isolation Forest ML model for anomaly detection
@@ -390,7 +390,7 @@ FRONTEND:
 
 
 ================================================================================
- 13. PROJECT WORKING SUMMARY
+# 13. PROJECT WORKING SUMMARY
 ================================================================================
 
 This AI-Based Intrusion Detection System operates as a continuous, automated 
